@@ -14,6 +14,7 @@
 .navbar{
     position: fixed;
     width: 100%;
+    padding: 15px 0;
     background: crimson;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -33,4 +34,7 @@
 }
 .navbar .menu li a{
     color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 25px;
 }
